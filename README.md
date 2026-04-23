@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Yousra Tamer 👋
 
-<!--
-**Yosra-Tamer/Yosra-Tamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+#### Dedicated AI student passionate about building scalable, reliable, and maintainable intelligent systems. 
+#### Currently interested in Prompt Engineering, AI Agents and Automation.
+#### A lifelong learner with a strong focus on mastery and innovation.
+#### I always seek to apply what I learn by bridging the gap between theory and practice, and I look forward to being a transformative addition wherever I work.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,bash)](https://skillicons.dev)
+
+#### 🤖 AI & Machine Learning Tools
+[![AI Tools](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn)](https://skillicons.dev)
+
+#### 🗄️ Backend & Databases
+[![Backend & Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
